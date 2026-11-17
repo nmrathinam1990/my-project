@@ -1,0 +1,3 @@
+html, body { margin: 0; height: 100%; background: #111; overflow: hidden; }
+body { display: flex; align-items: center; justify-content: center; }
+canvas { width: min(100vw, 150vh); height: min(66.67vw, 100vh); background: #3b6e2f; cursor: crosshair; display: block; }
